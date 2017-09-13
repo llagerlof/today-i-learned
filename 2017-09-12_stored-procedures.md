@@ -62,4 +62,4 @@ select * from resumo_estados; // a tabela temporária existe até a conexão ter
 
 ---
 
-*keywords: mysql, stored procedures, database, banco de dados*
+*keywords: mysql, stored procedures, database, banco de dados, tutorial*
