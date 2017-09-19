@@ -14,7 +14,7 @@ No exemplo abaixo, esse plugin "extractLinks" permite o usuário extrair para um
 		return this.each(function() {
 			if ($(this).attr("class") != "extractedLink") {
 				console.log($(this).attr("href"));
-				$("#divExtractedLinks").append("<a class='extractedLink' href='" + $(this).attr("href") + "' target='_blank'>" + $(this).attr("href") + "</a>"  + ", " + $(this).html() + "<br>");
+				$("#divExtractedLinks").append("<a class='extractedLink' href='" + $(this).attr("href") + "' target='_blank'>" + $(this).attr("href") + "</a>"  + ", " + $(this).text() + "<br>");
 			}
 		});
 	};
