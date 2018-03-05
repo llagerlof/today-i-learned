@@ -1,3 +1,3 @@
 # today-i-learned
 
-Um repositório para registrar tudo o que eu for aprendendo em T.I. com o passar do tempo.
+Um repositório para registrar o que eu for aprendendo ou revisando em programação/T.I. com o passar do tempo.
