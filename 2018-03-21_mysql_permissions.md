@@ -65,4 +65,4 @@ Como remover uma entrada da tabela user (remover o acesso de um usuário para um
 
 ---
 
-*keywords: mysql, permissions, database, banco de dados, tutorial*
+*keywords: mysql, permissions, permissões, database, user, username, banco de dados, password, senha, tutorial*
