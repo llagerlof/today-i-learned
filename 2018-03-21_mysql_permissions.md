@@ -66,3 +66,16 @@ Como remover uma entrada da tabela user (remover o acesso de um usuário para um
 ---
 
 *keywords: mysql, permissions, permissões, database, user, username, banco de dados, password, senha, tutorial*
+
+*references:*
+
+*https://dev.mysql.com/doc/refman/5.7/en/set-password.html*
+
+*https://dev.mysql.com/doc/refman/5.7/en/password-hashing.html*
+
+*https://dba.stackexchange.com/a/80729/134466*
+
+*https://dev.mysql.com/doc/refman/5.7/en/show-grants.html*
+
+*https://dev.mysql.com/doc/refman/5.7/en/grant.html*
+
