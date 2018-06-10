@@ -13,18 +13,13 @@ Crie a máquina virtual do Docker (necessário para que você possa acessar os s
 ```
 docker-machine create default
 ```
-Inicie a máquina virtual com o comando:
-
-```
-docker-machine start default
-```
 
 Feito isso você deve configurar algumas variáveis de ambiente. Para ver quais, digite:
 
 ```
 docker-machine env default
 ```
-Basta rodar todos os comandos SET exibidos. Não precisa executar as linhas que começam com REM.
+Basta rodar no terminal todos os comandos SET exibidos. Não precisa executar as linhas que começam com REM.
 
 Feito isso inicie o serviço com o comando:
 
@@ -89,39 +84,18 @@ No **index.php** coloque o conteúdo abaixo:
 
 Faça o build do container:
 ```
-$ docker build -t phpapp .
+docker build -t phpapp .
 ```
 
 Rode o container:
 ```
-$ docker run -d -p 4000:80 phpapp
+docker run -d -p 4000:80 phpapp
 ```
 
 No seu navegador acesse a porta 4000 da máquina onde o Docker está rodando para acessar a porta 80 do container, usando o seu navegador. O IP que você deve usar é o que aparece quando você executa o comando ```docker-machine ls```
 
 http://ip_retornado_pelo_comando_docker_machine_ls:4000/index.php
 
-
-## Como montar um diretório do host dentro do container.
-
-**Crie um volume:**
-
-```
-$ docker volume create storage01
-```
-
-**Inicie o container indicando qual volume vai usar e em qual diretório do container vai monta-lo:**
-
-```
-$ docker run -p 4000:80 --mount source=storage01,target=/app/st01 phpapp
-```
-
-No exemplo acima a sua aplicação pode ler e escrever no diretório /app/st01, que na verdade estará estará manipulando o conteúdo do diretório do container. Para saber que diretório é esse, digite:
-
-```
-$ docker volume ls
-$ docker volume inspect storage01
-```
 
 # Notas
 
@@ -146,7 +120,7 @@ https://hub.docker.com/explore/
 
 ---
 
-*keywords: docker, container, installation, install, run, linux, image, imagem, tutorial*
+*keywords: docker, container, installation, install, run, windows, linux, image, imagem, tutorial*
 
 *references:*
 
