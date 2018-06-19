@@ -107,6 +107,7 @@ $ docker images
 **Listar os containers que estão em execução:**
 ```
 $ docker container ls
+$ docker ps -a
 ```
 
 **Ajuda:**
