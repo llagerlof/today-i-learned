@@ -8,6 +8,8 @@ Já utilizei outros indexadores e search tools antes, mas Everything é de longe
 
 **Download:** https://www.voidtools.com
 
+![Everything main screen](https://www.voidtools.com/support/everything/Everything.Search.Window.png)
+
 ## Exemplos
 
 Após a indexação que leva de 1 a 2 minutos na maioria dos sistemas, você poderá começar a fazer suas pesquisas.
