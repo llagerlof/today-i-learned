@@ -6,7 +6,7 @@ As vantagens desse buscador é que após a indexação a pesquisa ou filtragem p
 
 Já utilizei outros indexadores e search tools antes, mas Everything é de longe a ferramenta mais impressionante nesta categoria.
 
-**Download:** https://www.voidtools.com
+**Site oficial:** https://www.voidtools.com
 
 ![Everything main screen](https://res.cloudinary.com/llagerlof/image/upload/v1543322783/github/Everything.Search.Window.png)
 
