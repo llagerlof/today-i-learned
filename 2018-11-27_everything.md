@@ -14,7 +14,7 @@ Após a indexação que leva de 1 a 2 minutos na maioria dos sistemas, você pod
 
 Por padrão a tela inicial do aplicativo lista todos os arquivos do seu HD.
 
-#### Pesquisar todos os nomes de arquivos contendo "foto"
+#### Pesquisar todos os nomes de arquivos e diretórios contendo "foto"
 
 ```foto```
 
@@ -56,7 +56,9 @@ Por padrão a tela inicial do aplicativo lista todos os arquivos do seu HD.
 
 #### Diretórios vazios
 
-```folder: empty:```
+```empty:```
+
+obs: Não é necessário usar ```folder: empty:``` neste caso. o ```empty:``` vale somente para diretórios.
 
 #### Arquivos vazios
 
@@ -66,7 +68,7 @@ Por padrão a tela inicial do aplicativo lista todos os arquivos do seu HD.
 
 ```childfilecount:50```
 
-#### Diretórios que contém arquivos que batem com o critério pesquisado (por exemplo, diretórios contendo algum arquivo ou subdiretório "teste")
+#### Diretórios que contém arquivos que batem com o critério pesquisado (por exemplo, encontrar os diretórios contendo algum arquivo ou subdiretório "teste")
 
 ```child:teste```
 
