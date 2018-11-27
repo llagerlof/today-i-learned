@@ -60,7 +60,7 @@ Por padrão a tela inicial do aplicativo lista todos os arquivos do seu HD.
 
 ```empty:```
 
-obs: Não é necessário usar ```folder: empty:``` neste caso. o ```empty:``` vale somente para diretórios.
+obs: Não é necessário usar ```folder: empty:``` neste caso o ```empty:``` vale somente para diretórios.
 
 #### Arquivos vazios
 
