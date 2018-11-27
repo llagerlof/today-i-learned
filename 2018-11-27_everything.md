@@ -42,7 +42,7 @@ Por padrão a tela inicial do aplicativo lista todos os arquivos do seu HD.
 
 #### Todos os arquivos .txt com exatamente 1024 bytes
 
-```.mp4 size:1024```
+```.txt size:1024```
 
 #### Arquivos .txt dentro do diretório do Windows com exatamente 3307 bytes
 
