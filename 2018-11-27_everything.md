@@ -8,7 +8,7 @@ Já utilizei outros indexadores e search tools antes, mas Everything é de longe
 
 **Download:** https://www.voidtools.com
 
-![Everything main screen](https://www.voidtools.com/support/everything/Everything.Search.Window.png)
+![Everything main screen](https://res.cloudinary.com/llagerlof/image/upload/v1543322783/github/Everything.Search.Window.png)
 
 ## Exemplos
 
