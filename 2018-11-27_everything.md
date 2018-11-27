@@ -1,6 +1,6 @@
 # Everything - file search and indexer (gratuito)
 
-Everything é um indexer/searcher de arquivos (gráfico). O programa indexa todos os nomes (e seus atributos) de arquivos e diretórios em menos de 3 minutos, sem causar lentidão no sistema durante o processo. Após a indexação inicial ele continua a indexar em background, [e é tão leve que você nem sente](https://www.voidtools.com/faq/#does_everything_hog_my_system_resources).
+Everything é um indexer/searcher de arquivos (gráfico). O programa indexa todos os nomes (e seus atributos) de arquivos e diretórios em poucos minutos, sem causar lentidão no sistema durante o processo. Após a indexação inicial ele continua a indexar em background, [e é tão leve que você nem sente](https://www.voidtools.com/faq/#does_everything_hog_my_system_resources).
 
 As vantagens desse buscador é que após a indexação a pesquisa ou filtragem por qualquer arquivo ou diretório no seu sistema é instantânea, não importa quantos arquivos são retornados pela busca. Por exemplo, eu tenho no meu HD quase 2 milhões de arquivos e levou menos de 3 minutos para indexar tudo. Pesquisar, filtrar e ordenar é um procedimento instantâneo para o programa.
 
